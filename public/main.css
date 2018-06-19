@@ -1,0 +1,13 @@
+#addNew input {
+  margin-bottom: 20px;
+}
+
+#deleteContact {
+  display: none;
+}
+
+#newContactForm span {
+  margin-left: 10px;
+  font-size: small;
+  color:red;
+}
